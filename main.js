@@ -106,6 +106,6 @@ function loop() {
   requestAnimationFrame(loop);
 }
 
-
-
 loop();
+
+//visit https://jsbin.com/yoludil/edit?html,css,js,output
